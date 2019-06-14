@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="aindu sales laptop">67521fecdb023300fc502fb748961900</sc_cat_item>
+        <sc_catalog display_value="indu it service catalog">e6219facdb023300fc502fb748961940</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:35:09</sys_created_on>
+        <sys_id>a2c35f20db423300fc502fb7489619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>indu it service catalog.aindu sales laptop</sys_name>
+        <sys_package display_value="sinduit" source="x_366661_sinduit">bcdb7d9cdbca3300fc502fb748961987</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">bcdb7d9cdbca3300fc502fb748961987</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a2c35f20db423300fc502fb7489619a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:35:09</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

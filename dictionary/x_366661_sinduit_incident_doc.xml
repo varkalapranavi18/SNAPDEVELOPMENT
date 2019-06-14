@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="incidencelog" max_length="40" name="x_366661_sinduit_incident_doc" sizeclass="1" type="collection">
+        <element label="ass to" mandatory="true" max_length="32" name="ass_to" reference="sys_user" reference_qual="first_nameSTARTSWITHa^EQ" reference_qual_condition="first_nameSTARTSWITHa^EQ" type="reference"/>
+        <element choice="1" label="con type" mandatory="true" max_length="40" name="con_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" sequence="0" value="email"/>
+                <element inactive_on_update="false" label="phone" sequence="1" value="phone"/>
+                <element inactive_on_update="false" label="fax" sequence="2" value="fax"/>
+            </choice>
+        </element>
+        <element label="Jl" max_length="1000" name="jl" type="journal"/>
+        <element label="ll" mandatory="true" max_length="1000" name="ll" type="journal"/>
+        <element choice="1" label="pppp" mandatory="true" max_length="1000" name="pppp" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="call" sequence="0" value="call"/>
+                <element inactive_on_update="false" label="msg" sequence="1" value="msg"/>
+                <element inactive_on_update="false" label="like" sequence="2" value="like"/>
+            </choice>
+        </element>
+        <element label="ppvv" mandatory="true" max_length="32" name="ppvv" reference="sys_user" type="reference"/>
+        <element default="testdefault" label="sindushort" max_length="100" name="sindushort" type="string"/>
+        <element label="sss" max_length="1000" name="sss" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="New Due Date" max_length="40" name="u_due_date_3" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element label="vvvv" mandatory="true" max_length="32" name="vvvv" reference="sys_user" reference_qual="building!=^calendar_integration=^EQ" reference_qual_condition="building!=^calendar_integration=^EQ" type="reference"/>
+    </element>
+</database>

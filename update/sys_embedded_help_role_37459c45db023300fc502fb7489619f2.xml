@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_366661_sinduit.incidence_log_backup_user" name="x_366661_sinduit.incidence_log_backup_user">fb459c45db023300fc502fb7489619ef</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:59:54</sys_created_on>
+        <sys_id>37459c45db023300fc502fb7489619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fb459c45db023300fc502fb7489619ef</sys_name>
+        <sys_package display_value="sinduit" source="x_366661_sinduit">bcdb7d9cdbca3300fc502fb748961987</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">bcdb7d9cdbca3300fc502fb748961987</sys_scope>
+        <sys_update_name>sys_embedded_help_role_37459c45db023300fc502fb7489619f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:59:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

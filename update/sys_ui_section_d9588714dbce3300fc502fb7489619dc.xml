@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d9588714dbce3300fc502fb7489619dc" sys_domain="global" table="x_366661_sinduit_incident_doc" version="3" view="jjj">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:37</sys_created_on>
+            <sys_id>59580b14dbce3300fc502fb74896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:37</sys_created_on>
+            <sys_id>d9580b14dbce3300fc502fb74896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:37</sys_created_on>
+            <sys_id>5d580b14dbce3300fc502fb74896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:37</sys_created_on>
+            <sys_id>dd580b14dbce3300fc502fb74896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:37</sys_created_on>
+            <sys_id>51580b14dbce3300fc502fb74896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>51db8e1cdb0e3300fc502fb74896191b</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>d1580b14dbce3300fc502fb74896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>55580b14dbce3300fc502fb74896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inline_checklist_macro</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>d5580b14dbce3300fc502fb74896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Checklist">ade76621c3200200e280dccdf3d3ae9a</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>jl</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>99580b14dbce3300fc502fb74896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ass_to</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>1d580b14dbce3300fc502fb74896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>con_type</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>9d580b14dbce3300fc502fb74896194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pppp</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>11580b14dbce3300fc502fb74896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vvvv</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>91580b14dbce3300fc502fb74896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>15580b14dbce3300fc502fb74896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attached_knowledge</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>95580b14dbce3300fc502fb74896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Attached Knowledge">cfa76e850a0a0b1f01446f67c8538d00</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>59580b14dbce3300fc502fb74896194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>19580b14dbce3300fc502fb748961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_input</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>99580b14dbce3300fc502fb748961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>1d580b14dbce3300fc502fb748961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>9d580b14dbce3300fc502fb748961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sss</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:38</sys_created_on>
+            <sys_id>11580b14dbce3300fc502fb748961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="d5588714dbce3300fc502fb7489619d9">d9588714dbce3300fc502fb7489619dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_chart action="INSERT_OR_UPDATE">
+            <form_field/>
+            <height>300</height>
+            <label/>
+            <report/>
+            <report_field/>
+            <report_qual/>
+            <section caption="NULL" display_value="" name="x_366661_sinduit_incident_doc" sys_domain="global" view="Default view">ed384698db0e3300fc502fb748961941</section>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 05:42:17</sys_created_on>
+            <sys_id>51db8e1cdb0e3300fc502fb74896191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 05:42:17</sys_updated_on>
+        </sys_ui_chart>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_366661_sinduit_incident_doc</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 10:06:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9588714dbce3300fc502fb7489619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366661_sinduit_incident_doc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sinduit" source="x_366661_sinduit">bcdb7d9cdbca3300fc502fb748961987</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinduit">bcdb7d9cdbca3300fc502fb748961987</sys_scope>
+            <sys_update_name>sys_ui_section_d9588714dbce3300fc502fb7489619dc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 10:06:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="jjj" name="jjj">d5588714dbce3300fc502fb7489619d9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

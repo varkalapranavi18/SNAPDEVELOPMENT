@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_366661_sinduit.college_managment" name="x_366661_sinduit.college_managment">122bf08ddb423300fc502fb7489619fb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 07:45:53</sys_created_on>
+        <sys_id>db4b748ddb423300fc502fb74896191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>122bf08ddb423300fc502fb7489619fb</sys_name>
+        <sys_package display_value="sinduit" source="x_366661_sinduit">bcdb7d9cdbca3300fc502fb748961987</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinduit">bcdb7d9cdbca3300fc502fb748961987</sys_scope>
+        <sys_update_name>sys_embedded_help_role_db4b748ddb423300fc502fb74896191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 07:45:53</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
